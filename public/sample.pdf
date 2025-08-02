@@ -1,0 +1,98 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 800
+>>
+stream
+BT
+/F1 24 Tf
+50 700 Td
+(AI PDF Analyzer - Sample Document) Tj
+0 -50 Td
+/F1 16 Tf
+(This is a sample PDF document for testing the AI-powered) Tj
+0 -25 Td
+(PDF interaction tool. You can select any text region) Tj
+0 -25 Td
+(and ask questions about the selected content.) Tj
+0 -50 Td
+(Try selecting this paragraph and asking:) Tj
+0 -25 Td
+("What is this document about?") Tj
+0 -50 Td
+(Features include:) Tj
+0 -30 Td
+(• Visual text selection with drag and drop) Tj
+0 -25 Td
+(• AI-powered question answering) Tj
+0 -25 Td
+(• Document search functionality) Tj
+0 -25 Td
+(• Light and dark theme support) Tj
+0 -25 Td
+(• Multiple AI provider support) Tj
+0 -50 Td
+(The demo mode works without any API keys.) Tj
+0 -25 Td
+(For real AI responses, configure OpenAI or) Tj
+0 -25 Td
+(Anthropic API keys in your .env file.) Tj
+0 -50 Td
+(Select any text above and try asking questions!) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000274 00000 n 
+0000001126 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+1193
+%%EOF
